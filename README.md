@@ -51,3 +51,13 @@ The AI prioritization prompt has been updated to consider the user's manually se
 Insights or Next Steps
 The implementation of the editing feature enhances user control over task details, particularly priority, allowing for a more personalized task management experience.
 The updated AI prioritization prompt represents a valuable step towards a hybrid prioritization system that respects user input while still leveraging AI for intelligent suggestions. Further refinement of the prompt and the AI's logic could explore more complex prioritization rules or user feedback mechanisms.
+
+
+<img width="1247" height="471" alt="image" src="https://github.com/user-attachments/assets/8ea5581c-8591-41bb-bf7e-6555b5954cf2" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8d5533f9-4527-4747-8c71-b1ce9542aeba" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b13957cf-43a7-4cfd-a481-4feb5278ef9c" />
+
+
+
